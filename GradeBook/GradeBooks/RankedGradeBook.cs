@@ -51,3 +51,5 @@ namespace GradeBook.GradeBooks
 
             base.CalculateStudentStatistics(name);
         }
+    }
+}
